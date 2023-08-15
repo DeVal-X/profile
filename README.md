@@ -3,14 +3,13 @@
 <em> /introduction incoming, if you wish to see tech related informations, see below 😉/</em>  
 
 <h4>👋 introduction </h4>
-<p>I'm Alexis, formerly technician in air quality control, my last job convinced me it was time to change career.</p>
+<p>I'm Alexis, formerly a technician in air quality control. My previous job convinced me that it was time for a career change.</p>
 
-<p>One day a box responsible for data transfer had an issue and the subject was dumped onto me. It was then, by chance, that code came into my life and I had my first experience with it.
-The box was programmed with Linux so I spent 2 whole days learning how it worked and one thing leading to another I fixed it. <br/>
-This experience helped me in my choice towards my career change. After a few months of self training I became a student at Le Wagon Paris where I learned a lot, and got convinced once again how much I Like programming ! </p>
+<p>One day, an issue arose with a data transfer box, and the responsibility for addressing it fell to me. It was at that moment, by chance, that I was introduced to coding, marking my initial experience with it. The box was programmed with Linux, so I dedicated two full days to learning how it operated. As one thing led to another, I successfully resolved the issue.</p> 
 
-<p>Currently deepening my skills & knowledge in Ruby/JS with grafikart's lessons and codewars. <br/>
-My goal now is to keep learning and find a job as a Fulstack Developer !</p>
+<p>This experience strongly influenced my decision to pursue a career change. After several months of self-training, I became a student at Le Wagon Paris, where I gained knowledge and solidified my passion for programming.</p>
+
+<p>My current goal is to continue learning and secure a position as a Fullstack Developer!</p>
 
 
 <p>📃 All in all, I am: </p>
